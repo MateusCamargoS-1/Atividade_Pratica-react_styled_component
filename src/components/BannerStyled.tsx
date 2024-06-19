@@ -21,7 +21,7 @@ const BannerContato = styled.div`
   background-size: cover;
   color: #eee;
   width: 100%;
-  height: 200px;
+  height: 250px;
   margin-top: -6px;
   display: flex;
   justify-content: center;
